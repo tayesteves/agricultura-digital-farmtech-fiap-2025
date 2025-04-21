@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="agricultura-digital-FIAP-2025-TAYNAESTEVES" id="27C836BB-7EFB-3673-3DCC-91AC15610845" version="3.5">
+<createdBy>tayna</createdBy>
+<createdTime>2025-04-21 09:06:31 UTC</createdTime>
+<ownerDesignName>agricultura-digital-FIAP-2025-TAYNAESTEVES</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>27C836BB-7EFB-3673-3DCC-91AC15610845</designId>
+</OSDM_Design>
