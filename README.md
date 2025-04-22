@@ -1,3 +1,14 @@
+FIAP - Faculdade de Informática e Administração Paulista
+
+## Fase 2 - Campo da inovação - Uma plantação de códigos
+## Atividade Cap 1 - Um mapa do tesouro
+
+## Integrantes 
+  João, RM 565999
+  Vinicius, RM 566269
+  Andrew, RM 563646
+  Tayná, RM 562491
+
 ## Sumário
 - [Contexto](#contexto)
 - [Objetivos do Projeto](#objetivos-do-projeto)
@@ -5,7 +16,6 @@
 - [Relacionamentos dentro do sistema](#relacionamentos-dentro-do-sistema)
 - [Geolocalização](#geolocalização)
 - [Arquivos incluídos](#arquivos-incluídos)
-- [Autores](#autores)
 
 ## Agricultura Digital - FarmTech Solutions
 Este repositório apresenta o projeto de modelagem de banco de dados relacional para um sistema de agricultura digital inteligente, desenvolvido como parte da disciplina de Banco de Dados da FIAP – 2025.
