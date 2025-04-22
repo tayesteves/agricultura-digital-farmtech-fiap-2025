@@ -4,10 +4,10 @@ FIAP - Faculdade de Informática e Administração Paulista
 ## Atividade Cap 1 - Um mapa do tesouro
 
 ## Integrantes 
-  João, RM 565999
-  Vinicius, RM 566269
-  Endrew, RM 563646
-  Tayná, RM 562491
+  João: RM 565999
+  Viniciu: RM 566269
+  Endrew: RM 563646
+  Tayná: RM 562491
 
 ## Sumário
 - [Contexto](#contexto)
