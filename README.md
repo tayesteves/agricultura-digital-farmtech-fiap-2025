@@ -6,7 +6,7 @@ FIAP - Faculdade de Informática e Administração Paulista
 ## Integrantes 
   João, RM 565999
   Vinicius, RM 566269
-  Andrew, RM 563646
+  Endrew, RM 563646
   Tayná, RM 562491
 
 ## Sumário
